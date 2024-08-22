@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Rúben Araújo 👋
 
 ## Sobre Mim
 - 🔭 Atualmente estou trabalhando em [Projeto Atual]
