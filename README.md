@@ -1,6 +1,8 @@
-# Olá, Rúben Araújo aqui! 👋
+<h1 align="left"> Olá Galera! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" widht="30px">, Eu sou Rúben Araújo</h1>
 
-#Desenvolvedor Full Stack em Constante aprendizado!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruben-araujo&color=yellow" alt="Vizualizações do Perfil" /> </p>
+
+#Programador em Constante aprendizado!
 
 ## Sobre Mim
 - 🔭 Atualmente estou trabalhando em um projeto chamado [DRIP-STORE]
@@ -9,8 +11,12 @@
 - 📫 Como me encontrar: rubenaraujo097@gmail.com
 - ⚡ Quem sou eu ? Estudante de Análise e Desenvolvimento de Sistemas pela Unopar/Anhaguera atualmente no 4º semestre.
 
-## Tecnologias e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="40" height="40"/>
+ <h3>STACKS</h3>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572b6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-code&logoColor=007ACC)&nbsp;
