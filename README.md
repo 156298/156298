@@ -2,16 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruben-araujo&color=yellow" alt="Vizualizações do Perfil" /> </p>
 
-#Programador em Constante aprendizado!
+## <h3 align="left">PROGRAMADOR EM CONSTANTE APRENDIZADO! </h3>
 
-## Sobre Mim
+## Um pouco mais Sobre Mim
 - 🔭 Atualmente estou trabalhando em um projeto chamado [DRIP-STORE]
 - 🌱 Estou aprendendo [HTML, CSS, JAVASCRIPT, REACT, CYPRESS, NODE.JS]
 - 👯 Estou procurando colaborar em projeto [Open Source] que possam agregar conhecimento e prática e em que eu possa ser útil.
 - 📫 Como me encontrar: rubenaraujo097@gmail.com
 - ⚡ Quem sou eu ? Estudante de Análise e Desenvolvimento de Sistemas pela Unopar/Anhaguera atualmente no 4º semestre.
 
- <h3>STACKS</h3>
+## <h3 align="left"> STACKS </h3>
+<br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
