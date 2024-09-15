@@ -5,7 +5,7 @@
 ## <h3 align="left">PROGRAMADOR EM CONSTANTE APRENDIZADO! </h3>
 
 ## Um pouco mais Sobre Mim
-- 🔭 Atualmente estou trabalhando em um projeto chamado [DRIP-STORE]
+- 🔭Atualmente, estou desenvolvendo um projeto de e-commerce chamado [drip-store]. O projeto utiliza React e Vite para criar uma interface rápida e moderna para lojas online.
 - 🌱 Estou aprendendo [HTML, CSS, JAVASCRIPT, REACT, CYPRESS, NODE.JS]
 - 👯 Estou procurando colaborar em projeto [Open Source] que possam agregar conhecimento e prática e em que eu possa ser útil.
 - 📫 Como me encontrar: rubenaraujo097@gmail.com
